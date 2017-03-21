@@ -47,7 +47,7 @@ The task section includes steps to integrate the service into the app.
 
 In order to access the API, you will need an API key.
 
-You can request an API Key by emailing apikeyrequest@zumata.com. Please state your name, company name, use case and contact information and we will get back to you.
+You can request an API Key by emailing apikeyrequest+ibmbluemix@zumata.com. Please state your name, company name, use case and contact information and we will get back to you.
 
 The API key should be included in the X-Api-Key header of each request. Note that the API key is case sensitive.
 
